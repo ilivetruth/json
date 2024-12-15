@@ -1,0 +1,2225 @@
+{
+    "tempo_bpm": 120.0,
+    "parts": [
+        {
+            "part": 1,
+            "patterns": [
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 0.0,
+                            "duration": 0.5,
+                            "time": 0.0
+                        }
+                    ],
+                    "duration": 0.25,
+                    "last_note_time": 0.0,
+                    "last_note_end": 0.25
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "C3",
+                            "offset": 1.5,
+                            "duration": 0.5,
+                            "time": 0.75
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 2.0,
+                            "duration": 0.5,
+                            "time": 1.0
+                        },
+                        {
+                            "name": "E3",
+                            "offset": 2.5,
+                            "duration": 0.25,
+                            "time": 1.25
+                        }
+                    ],
+                    "duration": 0.625,
+                    "last_note_time": 1.25,
+                    "last_note_end": 1.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 3.5,
+                            "duration": 0.5,
+                            "time": 1.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 4.0,
+                            "duration": 1.0,
+                            "time": 2.0
+                        },
+                        {
+                            "name": "G2",
+                            "offset": 5.0,
+                            "duration": 1.0,
+                            "time": 2.5
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 6.0,
+                            "duration": 0.5,
+                            "time": 3.0
+                        }
+                    ],
+                    "duration": 1.5,
+                    "last_note_time": 3.0,
+                    "last_note_end": 3.25
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 8.0,
+                            "duration": 0.3333333333333333,
+                            "time": 4.0
+                        }
+                    ],
+                    "duration": 0.16666666666666696,
+                    "last_note_time": 4.0,
+                    "last_note_end": 4.166666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "C3",
+                            "offset": 9.5,
+                            "duration": 0.25,
+                            "time": 4.75
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 10.0,
+                            "duration": 0.5,
+                            "time": 5.0
+                        },
+                        {
+                            "name": "E3",
+                            "offset": 10.5,
+                            "duration": 0.3333333333333333,
+                            "time": 5.25
+                        }
+                    ],
+                    "duration": 0.666666666666667,
+                    "last_note_time": 5.25,
+                    "last_note_end": 5.416666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 11.5,
+                            "duration": 0.5,
+                            "time": 5.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 12.0,
+                            "duration": 1.0,
+                            "time": 6.0
+                        },
+                        {
+                            "name": "C3",
+                            "offset": 13.0,
+                            "duration": 1.0,
+                            "time": 6.5
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 14.0,
+                            "duration": 0.3333333333333333,
+                            "time": 7.0
+                        }
+                    ],
+                    "duration": 1.416666666666667,
+                    "last_note_time": 7.0,
+                    "last_note_end": 7.166666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 16.0,
+                            "duration": 0.25,
+                            "time": 8.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 16.5,
+                            "duration": 0.3333333333333333,
+                            "time": 8.25
+                        }
+                    ],
+                    "duration": 0.4166666666666661,
+                    "last_note_time": 8.25,
+                    "last_note_end": 8.416666666666666
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 17.5,
+                            "duration": 0.5,
+                            "time": 8.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 18.0,
+                            "duration": 0.25,
+                            "time": 9.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 18.5,
+                            "duration": 0.25,
+                            "time": 9.25
+                        }
+                    ],
+                    "duration": 0.625,
+                    "last_note_time": 9.25,
+                    "last_note_end": 9.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 19.5,
+                            "duration": 0.5,
+                            "time": 9.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 20.0,
+                            "duration": 0.25,
+                            "time": 10.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 20.5,
+                            "duration": 0.3333333333333333,
+                            "time": 10.25
+                        }
+                    ],
+                    "duration": 0.6666666666666661,
+                    "last_note_time": 10.25,
+                    "last_note_end": 10.416666666666666
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "C3",
+                            "offset": 21.5,
+                            "duration": 1.5,
+                            "time": 10.75
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 23.0,
+                            "duration": 0.3333333333333333,
+                            "time": 11.5
+                        }
+                    ],
+                    "duration": 0.9166666666666661,
+                    "last_note_time": 11.5,
+                    "last_note_end": 11.666666666666666
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 24.0,
+                            "duration": 0.25,
+                            "time": 12.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 24.5,
+                            "duration": 0.25,
+                            "time": 12.25
+                        }
+                    ],
+                    "duration": 0.375,
+                    "last_note_time": 12.25,
+                    "last_note_end": 12.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 25.5,
+                            "duration": 0.5,
+                            "time": 12.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 26.0,
+                            "duration": 0.25,
+                            "time": 13.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 26.5,
+                            "duration": 0.3333333333333333,
+                            "time": 13.25
+                        }
+                    ],
+                    "duration": 0.6666666666666661,
+                    "last_note_time": 13.25,
+                    "last_note_end": 13.416666666666666
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 27.5,
+                            "duration": 0.5,
+                            "time": 13.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 28.0,
+                            "duration": 0.25,
+                            "time": 14.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 28.5,
+                            "duration": 0.5,
+                            "time": 14.25
+                        },
+                        {
+                            "name": "C3",
+                            "offset": 29.0,
+                            "duration": 0.5,
+                            "time": 14.5
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 29.5,
+                            "duration": 1.6666666666666667,
+                            "time": 14.75
+                        }
+                    ],
+                    "duration": 1.833333333333334,
+                    "last_note_time": 14.75,
+                    "last_note_end": 15.583333333333334
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 112.0,
+                            "duration": 0.5,
+                            "time": 56.0
+                        }
+                    ],
+                    "duration": 0.25,
+                    "last_note_time": 56.0,
+                    "last_note_end": 56.25
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "C3",
+                            "offset": 113.5,
+                            "duration": 0.5,
+                            "time": 56.75
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 114.0,
+                            "duration": 0.5,
+                            "time": 57.0
+                        },
+                        {
+                            "name": "E3",
+                            "offset": 114.5,
+                            "duration": 0.25,
+                            "time": 57.25
+                        }
+                    ],
+                    "duration": 0.625,
+                    "last_note_time": 57.25,
+                    "last_note_end": 57.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 115.5,
+                            "duration": 0.5,
+                            "time": 57.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 116.0,
+                            "duration": 1.0,
+                            "time": 58.0
+                        },
+                        {
+                            "name": "G2",
+                            "offset": 117.0,
+                            "duration": 1.0,
+                            "time": 58.5
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 118.0,
+                            "duration": 0.5,
+                            "time": 59.0
+                        }
+                    ],
+                    "duration": 1.5,
+                    "last_note_time": 59.0,
+                    "last_note_end": 59.25
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 120.0,
+                            "duration": 0.3333333333333333,
+                            "time": 60.0
+                        }
+                    ],
+                    "duration": 0.1666666666666643,
+                    "last_note_time": 60.0,
+                    "last_note_end": 60.166666666666664
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "C3",
+                            "offset": 121.5,
+                            "duration": 0.25,
+                            "time": 60.75
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 122.0,
+                            "duration": 0.5,
+                            "time": 61.0
+                        },
+                        {
+                            "name": "E3",
+                            "offset": 122.5,
+                            "duration": 0.3333333333333333,
+                            "time": 61.25
+                        }
+                    ],
+                    "duration": 0.6666666666666643,
+                    "last_note_time": 61.25,
+                    "last_note_end": 61.416666666666664
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 123.5,
+                            "duration": 0.5,
+                            "time": 61.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 124.0,
+                            "duration": 1.0,
+                            "time": 62.0
+                        },
+                        {
+                            "name": "C3",
+                            "offset": 125.0,
+                            "duration": 1.0,
+                            "time": 62.5
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 126.0,
+                            "duration": 0.3333333333333333,
+                            "time": 63.0
+                        }
+                    ],
+                    "duration": 1.4166666666666643,
+                    "last_note_time": 63.0,
+                    "last_note_end": 63.166666666666664
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 128.0,
+                            "duration": 0.25,
+                            "time": 64.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 128.5,
+                            "duration": 0.3333333333333333,
+                            "time": 64.25
+                        }
+                    ],
+                    "duration": 0.4166666666666714,
+                    "last_note_time": 64.25,
+                    "last_note_end": 64.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 129.5,
+                            "duration": 0.5,
+                            "time": 64.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 130.0,
+                            "duration": 0.25,
+                            "time": 65.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 130.5,
+                            "duration": 0.25,
+                            "time": 65.25
+                        }
+                    ],
+                    "duration": 0.625,
+                    "last_note_time": 65.25,
+                    "last_note_end": 65.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 131.5,
+                            "duration": 0.5,
+                            "time": 65.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 132.0,
+                            "duration": 0.25,
+                            "time": 66.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 132.5,
+                            "duration": 0.3333333333333333,
+                            "time": 66.25
+                        }
+                    ],
+                    "duration": 0.6666666666666714,
+                    "last_note_time": 66.25,
+                    "last_note_end": 66.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "C3",
+                            "offset": 133.5,
+                            "duration": 1.5,
+                            "time": 66.75
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 135.0,
+                            "duration": 0.3333333333333333,
+                            "time": 67.5
+                        }
+                    ],
+                    "duration": 0.9166666666666714,
+                    "last_note_time": 67.5,
+                    "last_note_end": 67.66666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 136.0,
+                            "duration": 0.25,
+                            "time": 68.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 136.5,
+                            "duration": 0.25,
+                            "time": 68.25
+                        }
+                    ],
+                    "duration": 0.375,
+                    "last_note_time": 68.25,
+                    "last_note_end": 68.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 137.5,
+                            "duration": 0.5,
+                            "time": 68.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 138.0,
+                            "duration": 0.25,
+                            "time": 69.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 138.5,
+                            "duration": 0.3333333333333333,
+                            "time": 69.25
+                        }
+                    ],
+                    "duration": 0.6666666666666714,
+                    "last_note_time": 69.25,
+                    "last_note_end": 69.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 139.5,
+                            "duration": 0.5,
+                            "time": 69.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 140.0,
+                            "duration": 0.25,
+                            "time": 70.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 140.5,
+                            "duration": 0.5,
+                            "time": 70.25
+                        },
+                        {
+                            "name": "C3",
+                            "offset": 141.0,
+                            "duration": 0.5,
+                            "time": 70.5
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 141.5,
+                            "duration": 1.6666666666666667,
+                            "time": 70.75
+                        }
+                    ],
+                    "duration": 1.8333333333333286,
+                    "last_note_time": 70.75,
+                    "last_note_end": 71.58333333333333
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 160.0,
+                            "duration": 0.25,
+                            "time": 80.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 160.5,
+                            "duration": 0.3333333333333333,
+                            "time": 80.25
+                        }
+                    ],
+                    "duration": 0.4166666666666714,
+                    "last_note_time": 80.25,
+                    "last_note_end": 80.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 161.5,
+                            "duration": 0.5,
+                            "time": 80.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 162.0,
+                            "duration": 0.25,
+                            "time": 81.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 162.5,
+                            "duration": 0.25,
+                            "time": 81.25
+                        }
+                    ],
+                    "duration": 0.625,
+                    "last_note_time": 81.25,
+                    "last_note_end": 81.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 163.5,
+                            "duration": 0.5,
+                            "time": 81.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 164.0,
+                            "duration": 0.25,
+                            "time": 82.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 164.5,
+                            "duration": 0.3333333333333333,
+                            "time": 82.25
+                        }
+                    ],
+                    "duration": 0.6666666666666714,
+                    "last_note_time": 82.25,
+                    "last_note_end": 82.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "C3",
+                            "offset": 165.5,
+                            "duration": 1.5,
+                            "time": 82.75
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 167.0,
+                            "duration": 0.3333333333333333,
+                            "time": 83.5
+                        }
+                    ],
+                    "duration": 0.9166666666666714,
+                    "last_note_time": 83.5,
+                    "last_note_end": 83.66666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 168.0,
+                            "duration": 0.25,
+                            "time": 84.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 168.5,
+                            "duration": 0.25,
+                            "time": 84.25
+                        }
+                    ],
+                    "duration": 0.375,
+                    "last_note_time": 84.25,
+                    "last_note_end": 84.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 169.5,
+                            "duration": 0.5,
+                            "time": 84.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 170.0,
+                            "duration": 0.25,
+                            "time": 85.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 170.5,
+                            "duration": 0.3333333333333333,
+                            "time": 85.25
+                        }
+                    ],
+                    "duration": 0.6666666666666714,
+                    "last_note_time": 85.25,
+                    "last_note_end": 85.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 171.5,
+                            "duration": 0.5,
+                            "time": 85.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 172.0,
+                            "duration": 0.25,
+                            "time": 86.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 172.5,
+                            "duration": 0.5,
+                            "time": 86.25
+                        },
+                        {
+                            "name": "C3",
+                            "offset": 173.0,
+                            "duration": 0.5,
+                            "time": 86.5
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 173.5,
+                            "duration": 1.6666666666666667,
+                            "time": 86.75
+                        }
+                    ],
+                    "duration": 1.8333333333333286,
+                    "last_note_time": 86.75,
+                    "last_note_end": 87.58333333333333
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 208.0,
+                            "duration": 0.5,
+                            "time": 104.0
+                        }
+                    ],
+                    "duration": 0.25,
+                    "last_note_time": 104.0,
+                    "last_note_end": 104.25
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "C3",
+                            "offset": 209.5,
+                            "duration": 0.5,
+                            "time": 104.75
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 210.0,
+                            "duration": 0.5,
+                            "time": 105.0
+                        },
+                        {
+                            "name": "E3",
+                            "offset": 210.5,
+                            "duration": 0.25,
+                            "time": 105.25
+                        }
+                    ],
+                    "duration": 0.625,
+                    "last_note_time": 105.25,
+                    "last_note_end": 105.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 211.5,
+                            "duration": 0.5,
+                            "time": 105.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 212.0,
+                            "duration": 1.0,
+                            "time": 106.0
+                        },
+                        {
+                            "name": "G2",
+                            "offset": 213.0,
+                            "duration": 1.0,
+                            "time": 106.5
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 214.0,
+                            "duration": 0.5,
+                            "time": 107.0
+                        }
+                    ],
+                    "duration": 1.5,
+                    "last_note_time": 107.0,
+                    "last_note_end": 107.25
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 216.0,
+                            "duration": 0.3333333333333333,
+                            "time": 108.0
+                        }
+                    ],
+                    "duration": 0.1666666666666714,
+                    "last_note_time": 108.0,
+                    "last_note_end": 108.16666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "C3",
+                            "offset": 217.5,
+                            "duration": 0.25,
+                            "time": 108.75
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 218.0,
+                            "duration": 0.5,
+                            "time": 109.0
+                        },
+                        {
+                            "name": "E3",
+                            "offset": 218.5,
+                            "duration": 0.3333333333333333,
+                            "time": 109.25
+                        }
+                    ],
+                    "duration": 0.6666666666666714,
+                    "last_note_time": 109.25,
+                    "last_note_end": 109.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 219.5,
+                            "duration": 0.5,
+                            "time": 109.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 220.0,
+                            "duration": 1.0,
+                            "time": 110.0
+                        },
+                        {
+                            "name": "C3",
+                            "offset": 221.0,
+                            "duration": 1.0,
+                            "time": 110.5
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 222.0,
+                            "duration": 0.3333333333333333,
+                            "time": 111.0
+                        }
+                    ],
+                    "duration": 1.4166666666666714,
+                    "last_note_time": 111.0,
+                    "last_note_end": 111.16666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 224.0,
+                            "duration": 0.25,
+                            "time": 112.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 224.5,
+                            "duration": 0.3333333333333333,
+                            "time": 112.25
+                        }
+                    ],
+                    "duration": 0.4166666666666714,
+                    "last_note_time": 112.25,
+                    "last_note_end": 112.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 225.5,
+                            "duration": 0.5,
+                            "time": 112.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 226.0,
+                            "duration": 0.25,
+                            "time": 113.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 226.5,
+                            "duration": 0.25,
+                            "time": 113.25
+                        }
+                    ],
+                    "duration": 0.625,
+                    "last_note_time": 113.25,
+                    "last_note_end": 113.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 227.5,
+                            "duration": 0.5,
+                            "time": 113.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 228.0,
+                            "duration": 0.25,
+                            "time": 114.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 228.5,
+                            "duration": 0.3333333333333333,
+                            "time": 114.25
+                        }
+                    ],
+                    "duration": 0.6666666666666714,
+                    "last_note_time": 114.25,
+                    "last_note_end": 114.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "C3",
+                            "offset": 229.5,
+                            "duration": 1.5,
+                            "time": 114.75
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 231.0,
+                            "duration": 0.3333333333333333,
+                            "time": 115.5
+                        }
+                    ],
+                    "duration": 0.9166666666666714,
+                    "last_note_time": 115.5,
+                    "last_note_end": 115.66666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 232.0,
+                            "duration": 0.25,
+                            "time": 116.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 232.5,
+                            "duration": 0.25,
+                            "time": 116.25
+                        }
+                    ],
+                    "duration": 0.375,
+                    "last_note_time": 116.25,
+                    "last_note_end": 116.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 233.5,
+                            "duration": 0.5,
+                            "time": 116.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 234.0,
+                            "duration": 0.25,
+                            "time": 117.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 234.5,
+                            "duration": 0.3333333333333333,
+                            "time": 117.25
+                        }
+                    ],
+                    "duration": 0.6666666666666714,
+                    "last_note_time": 117.25,
+                    "last_note_end": 117.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "G2",
+                            "offset": 235.5,
+                            "duration": 0.5,
+                            "time": 117.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 236.0,
+                            "duration": 0.25,
+                            "time": 118.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 236.5,
+                            "duration": 0.5,
+                            "time": 118.25
+                        },
+                        {
+                            "name": "C3",
+                            "offset": 237.0,
+                            "duration": 0.5,
+                            "time": 118.5
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 237.5,
+                            "duration": 1.6666666666666667,
+                            "time": 118.75
+                        }
+                    ],
+                    "duration": 1.8333333333333286,
+                    "last_note_time": 118.75,
+                    "last_note_end": 119.58333333333333
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "D3",
+                            "offset": 240.0,
+                            "duration": 0.25,
+                            "time": 120.0
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 240.5,
+                            "duration": 1.0,
+                            "time": 120.25
+                        },
+                        {
+                            "name": "C3",
+                            "offset": 241.5,
+                            "duration": 0.5,
+                            "time": 120.75
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 242.0,
+                            "duration": 0.25,
+                            "time": 121.0
+                        },
+                        {
+                            "name": "D3",
+                            "offset": 242.5,
+                            "duration": 1.0,
+                            "time": 121.25
+                        },
+                        {
+                            "name": "C3",
+                            "offset": 243.5,
+                            "duration": 0.5,
+                            "time": 121.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 244.0,
+                            "duration": 0.25,
+                            "time": 122.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 244.5,
+                            "duration": 1.0,
+                            "time": 122.25
+                        },
+                        {
+                            "name": "G2",
+                            "offset": 245.5,
+                            "duration": 0.25,
+                            "time": 122.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 246.0,
+                            "duration": 0.25,
+                            "time": 123.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 246.5,
+                            "duration": 0.5,
+                            "time": 123.25
+                        },
+                        {
+                            "name": "G2",
+                            "offset": 247.0,
+                            "duration": 0.5,
+                            "time": 123.5
+                        },
+                        {
+                            "name": "G2",
+                            "offset": 247.5,
+                            "duration": 0.25,
+                            "time": 123.75
+                        },
+                        {
+                            "name": "E2",
+                            "offset": 248.0,
+                            "duration": 0.25,
+                            "time": 124.0
+                        },
+                        {
+                            "name": "E2",
+                            "offset": 248.5,
+                            "duration": 0.75,
+                            "time": 124.25
+                        },
+                        {
+                            "name": "E2",
+                            "offset": 249.5,
+                            "duration": 0.25,
+                            "time": 124.75
+                        },
+                        {
+                            "name": "G#2",
+                            "offset": 250.0,
+                            "duration": 0.5,
+                            "time": 125.0
+                        },
+                        {
+                            "name": "E2",
+                            "offset": 250.5,
+                            "duration": 0.25,
+                            "time": 125.25
+                        },
+                        {
+                            "name": "G#2",
+                            "offset": 251.0,
+                            "duration": 0.5,
+                            "time": 125.5
+                        },
+                        {
+                            "name": "B2",
+                            "offset": 251.5,
+                            "duration": 0.25,
+                            "time": 125.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 252.0,
+                            "duration": 0.25,
+                            "time": 126.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 252.5,
+                            "duration": 0.25,
+                            "time": 126.25
+                        },
+                        {
+                            "name": "E2",
+                            "offset": 253.0,
+                            "duration": 0.5,
+                            "time": 126.5
+                        },
+                        {
+                            "name": "G2",
+                            "offset": 253.5,
+                            "duration": 0.5,
+                            "time": 126.75
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 254.0,
+                            "duration": 0.5,
+                            "time": 127.0
+                        }
+                    ],
+                    "duration": 7.25,
+                    "last_note_time": 127.0,
+                    "last_note_end": 127.25
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "patterns": [
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 155.5,
+                            "duration": 0.5,
+                            "time": 77.75
+                        },
+                        {
+                            "name": "Chord(E3,A3,C4)",
+                            "offset": 155.5,
+                            "duration": 0.5,
+                            "time": 77.75
+                        },
+                        {
+                            "name": "Chord(E3,A3,C4)",
+                            "offset": 156.0,
+                            "duration": 0.8333333333333334,
+                            "time": 78.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 156.5,
+                            "duration": 0.5,
+                            "time": 78.25
+                        },
+                        {
+                            "name": "Chord(B2,E3,G#3,B3)",
+                            "offset": 157.0,
+                            "duration": 0.25,
+                            "time": 78.5
+                        }
+                    ],
+                    "duration": 0.875,
+                    "last_note_time": 78.5,
+                    "last_note_end": 78.625
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 160.0,
+                            "duration": 0.25,
+                            "time": 80.0
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 160.5,
+                            "duration": 1.0,
+                            "time": 80.25
+                        },
+                        {
+                            "name": "Chord(B3,D4,G4)",
+                            "offset": 161.5,
+                            "duration": 0.25,
+                            "time": 80.75
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 162.0,
+                            "duration": 0.25,
+                            "time": 81.0
+                        },
+                        {
+                            "name": "Chord(C4,E4)",
+                            "offset": 162.5,
+                            "duration": 0.5,
+                            "time": 81.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 162.5,
+                            "duration": 1.0,
+                            "time": 81.25
+                        },
+                        {
+                            "name": "Chord(B3,D4,G4)",
+                            "offset": 163.5,
+                            "duration": 0.25,
+                            "time": 81.75
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 164.0,
+                            "duration": 0.25,
+                            "time": 82.0
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 164.5,
+                            "duration": 0.25,
+                            "time": 82.25
+                        }
+                    ],
+                    "duration": 2.375,
+                    "last_note_time": 82.25,
+                    "last_note_end": 82.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "Chord(E4,G4)",
+                            "offset": 165.5,
+                            "duration": 1.25,
+                            "time": 82.75
+                        },
+                        {
+                            "name": "C5",
+                            "offset": 165.5,
+                            "duration": 1.25,
+                            "time": 82.75
+                        },
+                        {
+                            "name": "Chord(G#4,B4,D5)",
+                            "offset": 167.0,
+                            "duration": 0.5,
+                            "time": 83.5
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 168.0,
+                            "duration": 0.25,
+                            "time": 84.0
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 168.5,
+                            "duration": 0.3333333333333333,
+                            "time": 84.25
+                        }
+                    ],
+                    "duration": 1.6666666666666714,
+                    "last_note_time": 84.25,
+                    "last_note_end": 84.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "Chord(B3,D4,G4)",
+                            "offset": 171.5,
+                            "duration": 0.5,
+                            "time": 85.75
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 172.0,
+                            "duration": 0.25,
+                            "time": 86.0
+                        },
+                        {
+                            "name": "Chord(C4,A4)",
+                            "offset": 172.25,
+                            "duration": 0.25,
+                            "time": 86.125
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 172.5,
+                            "duration": 0.25,
+                            "time": 86.25
+                        },
+                        {
+                            "name": "Chord(E4,A4,C5)",
+                            "offset": 173.0,
+                            "duration": 0.5,
+                            "time": 86.5
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 173.5,
+                            "duration": 0.75,
+                            "time": 86.75
+                        }
+                    ],
+                    "duration": 1.375,
+                    "last_note_time": 86.75,
+                    "last_note_end": 87.125
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A2",
+                            "offset": 219.5,
+                            "duration": 0.5,
+                            "time": 109.75
+                        },
+                        {
+                            "name": "Chord(E3,A3,C4)",
+                            "offset": 219.5,
+                            "duration": 0.5,
+                            "time": 109.75
+                        },
+                        {
+                            "name": "Chord(E3,A3,C4)",
+                            "offset": 220.0,
+                            "duration": 0.8333333333333334,
+                            "time": 110.0
+                        },
+                        {
+                            "name": "A2",
+                            "offset": 220.5,
+                            "duration": 0.5,
+                            "time": 110.25
+                        },
+                        {
+                            "name": "Chord(B2,E3,G#3,B3)",
+                            "offset": 221.0,
+                            "duration": 0.25,
+                            "time": 110.5
+                        }
+                    ],
+                    "duration": 0.875,
+                    "last_note_time": 110.5,
+                    "last_note_end": 110.625
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 224.0,
+                            "duration": 0.25,
+                            "time": 112.0
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 224.5,
+                            "duration": 1.0,
+                            "time": 112.25
+                        },
+                        {
+                            "name": "Chord(B3,D4,G4)",
+                            "offset": 225.5,
+                            "duration": 0.25,
+                            "time": 112.75
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 226.0,
+                            "duration": 0.25,
+                            "time": 113.0
+                        },
+                        {
+                            "name": "Chord(C4,E4)",
+                            "offset": 226.5,
+                            "duration": 0.5,
+                            "time": 113.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 226.5,
+                            "duration": 1.0,
+                            "time": 113.25
+                        },
+                        {
+                            "name": "Chord(B3,D4,G4)",
+                            "offset": 227.5,
+                            "duration": 0.25,
+                            "time": 113.75
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 228.0,
+                            "duration": 0.25,
+                            "time": 114.0
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 228.5,
+                            "duration": 0.25,
+                            "time": 114.25
+                        }
+                    ],
+                    "duration": 2.375,
+                    "last_note_time": 114.25,
+                    "last_note_end": 114.375
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "Chord(E4,G4)",
+                            "offset": 229.5,
+                            "duration": 1.25,
+                            "time": 114.75
+                        },
+                        {
+                            "name": "C5",
+                            "offset": 229.5,
+                            "duration": 1.25,
+                            "time": 114.75
+                        },
+                        {
+                            "name": "Chord(G#4,B4,D5)",
+                            "offset": 231.0,
+                            "duration": 0.5,
+                            "time": 115.5
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 232.0,
+                            "duration": 0.25,
+                            "time": 116.0
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 232.5,
+                            "duration": 0.3333333333333333,
+                            "time": 116.25
+                        }
+                    ],
+                    "duration": 1.6666666666666714,
+                    "last_note_time": 116.25,
+                    "last_note_end": 116.41666666666667
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "Chord(B3,D4,G4)",
+                            "offset": 235.5,
+                            "duration": 0.5,
+                            "time": 117.75
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 236.0,
+                            "duration": 0.25,
+                            "time": 118.0
+                        },
+                        {
+                            "name": "Chord(C4,A4)",
+                            "offset": 236.25,
+                            "duration": 0.25,
+                            "time": 118.125
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 236.5,
+                            "duration": 0.25,
+                            "time": 118.25
+                        },
+                        {
+                            "name": "Chord(E4,A4,C5)",
+                            "offset": 237.0,
+                            "duration": 0.5,
+                            "time": 118.5
+                        },
+                        {
+                            "name": "Chord(C4,E4,A4)",
+                            "offset": 237.5,
+                            "duration": 0.75,
+                            "time": 118.75
+                        }
+                    ],
+                    "duration": 1.375,
+                    "last_note_time": 118.75,
+                    "last_note_end": 119.125
+                }
+            ]
+        },
+        {
+            "part": 3,
+            "patterns": [
+                {
+                    "notes": [
+                        {
+                            "name": "E3",
+                            "offset": 176.0,
+                            "duration": 2.0,
+                            "time": 88.0
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 176.0,
+                            "duration": 2.6666666666666665,
+                            "time": 88.0
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 177.5,
+                            "duration": 0.6666666666666666,
+                            "time": 88.75
+                        },
+                        {
+                            "name": "D4",
+                            "offset": 178.0,
+                            "duration": 0.6666666666666666,
+                            "time": 89.0
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 178.5,
+                            "duration": 1.0,
+                            "time": 89.25
+                        },
+                        {
+                            "name": "E3",
+                            "offset": 179.5,
+                            "duration": 0.5,
+                            "time": 89.75
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 179.5,
+                            "duration": 0.5,
+                            "time": 89.75
+                        },
+                        {
+                            "name": "E3",
+                            "offset": 180.0,
+                            "duration": 2.75,
+                            "time": 90.0
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 180.0,
+                            "duration": 1.0,
+                            "time": 90.0
+                        },
+                        {
+                            "name": "G3",
+                            "offset": 181.0,
+                            "duration": 1.25,
+                            "time": 90.5
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 182.0,
+                            "duration": 1.5,
+                            "time": 91.0
+                        },
+                        {
+                            "name": "E3",
+                            "offset": 183.5,
+                            "duration": 0.5,
+                            "time": 91.75
+                        },
+                        {
+                            "name": "E3",
+                            "offset": 184.0,
+                            "duration": 2.0,
+                            "time": 92.0
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 184.0,
+                            "duration": 1.6666666666666667,
+                            "time": 92.0
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 185.5,
+                            "duration": 0.5,
+                            "time": 92.75
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 186.0,
+                            "duration": 1.25,
+                            "time": 93.0
+                        },
+                        {
+                            "name": "D4",
+                            "offset": 186.0,
+                            "duration": 0.5,
+                            "time": 93.0
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 186.5,
+                            "duration": 1.0,
+                            "time": 93.25
+                        },
+                        {
+                            "name": "Chord(E3,A3)",
+                            "offset": 187.5,
+                            "duration": 0.5,
+                            "time": 93.75
+                        },
+                        {
+                            "name": "Chord(E3,A3)",
+                            "offset": 188.0,
+                            "duration": 0.5,
+                            "time": 94.0
+                        },
+                        {
+                            "name": "Chord(G3,C4)",
+                            "offset": 189.0,
+                            "duration": 1.0,
+                            "time": 94.5
+                        },
+                        {
+                            "name": "Chord(E3,A3)",
+                            "offset": 190.0,
+                            "duration": 1.0,
+                            "time": 95.0
+                        }
+                    ],
+                    "duration": 7.5,
+                    "last_note_time": 95.0,
+                    "last_note_end": 95.5
+                },
+                {
+                    "notes": [
+                        {
+                            "name": "A3",
+                            "offset": 224.0,
+                            "duration": 0.25,
+                            "time": 112.0
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 224.0,
+                            "duration": 0.75,
+                            "time": 112.0
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 224.5,
+                            "duration": 1.0,
+                            "time": 112.25
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 224.5,
+                            "duration": 0.5,
+                            "time": 112.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 225.0,
+                            "duration": 0.5,
+                            "time": 112.5
+                        },
+                        {
+                            "name": "Chord(G3,E4)",
+                            "offset": 225.5,
+                            "duration": 0.5,
+                            "time": 112.75
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 226.0,
+                            "duration": 0.25,
+                            "time": 113.0
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 226.0,
+                            "duration": 1.0,
+                            "time": 113.0
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 226.5,
+                            "duration": 1.0,
+                            "time": 113.25
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 226.5,
+                            "duration": 0.6666666666666666,
+                            "time": 113.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 227.0,
+                            "duration": 0.75,
+                            "time": 113.5
+                        },
+                        {
+                            "name": "Chord(G3,E4)",
+                            "offset": 227.5,
+                            "duration": 0.5,
+                            "time": 113.75
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 228.0,
+                            "duration": 0.25,
+                            "time": 114.0
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 228.0,
+                            "duration": 0.6666666666666666,
+                            "time": 114.0
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 228.5,
+                            "duration": 1.0,
+                            "time": 114.25
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 228.5,
+                            "duration": 0.5,
+                            "time": 114.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 229.0,
+                            "duration": 0.5,
+                            "time": 114.5
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 229.5,
+                            "duration": 1.25,
+                            "time": 114.75
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 229.5,
+                            "duration": 0.5,
+                            "time": 114.75
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 230.0,
+                            "duration": 0.75,
+                            "time": 115.0
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 230.5,
+                            "duration": 0.5,
+                            "time": 115.25
+                        },
+                        {
+                            "name": "Chord(D4,A4)",
+                            "offset": 231.0,
+                            "duration": 0.5,
+                            "time": 115.5
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 231.5,
+                            "duration": 0.5,
+                            "time": 115.75
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 232.0,
+                            "duration": 0.25,
+                            "time": 116.0
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 232.0,
+                            "duration": 0.6666666666666666,
+                            "time": 116.0
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 232.5,
+                            "duration": 1.0,
+                            "time": 116.25
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 232.5,
+                            "duration": 0.5,
+                            "time": 116.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 233.0,
+                            "duration": 0.5,
+                            "time": 116.5
+                        },
+                        {
+                            "name": "Chord(G3,E4)",
+                            "offset": 233.5,
+                            "duration": 0.5,
+                            "time": 116.75
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 234.0,
+                            "duration": 0.25,
+                            "time": 117.0
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 234.0,
+                            "duration": 0.6666666666666666,
+                            "time": 117.0
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 234.5,
+                            "duration": 1.0,
+                            "time": 117.25
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 234.5,
+                            "duration": 0.5,
+                            "time": 117.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 235.0,
+                            "duration": 0.6666666666666666,
+                            "time": 117.5
+                        },
+                        {
+                            "name": "Chord(G3,E4)",
+                            "offset": 235.5,
+                            "duration": 0.5,
+                            "time": 117.75
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 236.0,
+                            "duration": 0.25,
+                            "time": 118.0
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 236.0,
+                            "duration": 0.75,
+                            "time": 118.0
+                        },
+                        {
+                            "name": "Chord(A3,E4)",
+                            "offset": 236.5,
+                            "duration": 0.5,
+                            "time": 118.25
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 237.0,
+                            "duration": 0.5,
+                            "time": 118.5
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 237.0,
+                            "duration": 1.0,
+                            "time": 118.5
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 237.5,
+                            "duration": 1.5,
+                            "time": 118.75
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 237.5,
+                            "duration": 0.6666666666666666,
+                            "time": 118.75
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 238.0,
+                            "duration": 0.6666666666666666,
+                            "time": 119.0
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 238.5,
+                            "duration": 0.5,
+                            "time": 119.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 239.0,
+                            "duration": 0.5,
+                            "time": 119.5
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 239.5,
+                            "duration": 0.5,
+                            "time": 119.75
+                        },
+                        {
+                            "name": "D4",
+                            "offset": 240.0,
+                            "duration": 1.0,
+                            "time": 120.0
+                        },
+                        {
+                            "name": "F4",
+                            "offset": 240.5,
+                            "duration": 0.5,
+                            "time": 120.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 241.0,
+                            "duration": 1.0,
+                            "time": 120.5
+                        },
+                        {
+                            "name": "F4",
+                            "offset": 241.5,
+                            "duration": 0.5,
+                            "time": 120.75
+                        },
+                        {
+                            "name": "D4",
+                            "offset": 242.0,
+                            "duration": 1.6666666666666667,
+                            "time": 121.0
+                        },
+                        {
+                            "name": "F4",
+                            "offset": 242.5,
+                            "duration": 0.5,
+                            "time": 121.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 243.0,
+                            "duration": 1.0,
+                            "time": 121.5
+                        },
+                        {
+                            "name": "F4",
+                            "offset": 243.5,
+                            "duration": 0.5,
+                            "time": 121.75
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 244.0,
+                            "duration": 1.0,
+                            "time": 122.0
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 244.0,
+                            "duration": 0.25,
+                            "time": 122.0
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 244.5,
+                            "duration": 0.6666666666666666,
+                            "time": 122.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 245.0,
+                            "duration": 1.25,
+                            "time": 122.5
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 245.5,
+                            "duration": 0.5,
+                            "time": 122.75
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 246.0,
+                            "duration": 1.0,
+                            "time": 123.0
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 246.5,
+                            "duration": 0.5,
+                            "time": 123.25
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 247.0,
+                            "duration": 0.6666666666666666,
+                            "time": 123.5
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 247.5,
+                            "duration": 0.5,
+                            "time": 123.75
+                        },
+                        {
+                            "name": "B3",
+                            "offset": 248.0,
+                            "duration": 1.5,
+                            "time": 124.0
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 248.5,
+                            "duration": 0.6666666666666666,
+                            "time": 124.25
+                        },
+                        {
+                            "name": "G#4",
+                            "offset": 249.0,
+                            "duration": 1.0,
+                            "time": 124.5
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 249.5,
+                            "duration": 0.5,
+                            "time": 124.75
+                        },
+                        {
+                            "name": "B3",
+                            "offset": 250.0,
+                            "duration": 1.5,
+                            "time": 125.0
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 250.5,
+                            "duration": 0.5,
+                            "time": 125.25
+                        },
+                        {
+                            "name": "G#4",
+                            "offset": 251.0,
+                            "duration": 0.6666666666666666,
+                            "time": 125.5
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 251.5,
+                            "duration": 0.5,
+                            "time": 125.75
+                        },
+                        {
+                            "name": "A4",
+                            "offset": 252.0,
+                            "duration": 0.75,
+                            "time": 126.0
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 252.5,
+                            "duration": 0.5,
+                            "time": 126.25
+                        },
+                        {
+                            "name": "C4",
+                            "offset": 253.0,
+                            "duration": 1.0,
+                            "time": 126.5
+                        },
+                        {
+                            "name": "E4",
+                            "offset": 253.5,
+                            "duration": 0.5,
+                            "time": 126.75
+                        },
+                        {
+                            "name": "A3",
+                            "offset": 254.0,
+                            "duration": 1.25,
+                            "time": 127.0
+                        }
+                    ],
+                    "duration": 15.625,
+                    "last_note_time": 127.0,
+                    "last_note_end": 127.625
+                }
+            ]
+        }
+    ]
+}
